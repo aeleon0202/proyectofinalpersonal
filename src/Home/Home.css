@@ -1,0 +1,16 @@
+.banner{
+
+    background-image: url('https://firebasestorage.googleapis.com/v0/b/spotyanderl.appspot.com/o/linkin-park.jpg?alt=media&token=60336c65-d18c-420a-8913-f311821f973d');
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30%;
+}
+
+.columna{
+    display: flex;
+}
+
+.dentro{
+    display: block;
+}
